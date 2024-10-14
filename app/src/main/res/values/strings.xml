@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather_icon_base_urlt">https://openweathermap.org/</string>
+    <string name="weather_condition">Condition:</string>
+    <string name="weather_description">Description:</string>
+    <string name="temperature">temperature:</string>
+    <string name="temperature_feels">temperature feels:</string>
+    <string name="humidity">humidity:</string>
+</resources>
